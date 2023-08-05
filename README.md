@@ -1,5 +1,5 @@
 # ListadosPalabrasRAE
-Lemarios de las distintas versiones del diccionario de la Real Academia Española. Los listados están sacados de https://iedra.es/
+Lemarios de distintas ediciones del diccionario de la Real Academia Española. Los listados están sacados de https://iedra.es/
 
 ## Contenido
 - Listado 23.2 (2018)
