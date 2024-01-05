@@ -7,5 +7,6 @@ Lemarios de distintas ediciones del diccionario de la Real Academia Española. L
 - Listado 23.4 (2020)
 - Listado 23.5 (2021)
 - Listado 23.6 (2022)
+- Listado 23.7 (2023)
 
 Se aceptan PR para añadir listados de otras ediciones.
