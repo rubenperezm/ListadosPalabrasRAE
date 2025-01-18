@@ -14765,6 +14765,7 @@ bureta
 burga
 burgado
 burgalés
+burgao
 burgés
 burgo
 burgomaestre
@@ -20180,6 +20181,7 @@ cheroqui
 cherriar
 cherrión
 cherva
+cheslón
 cheso
 chéster
 cheto
